@@ -6,4 +6,4 @@ Grades list - Front and Back
 ### Front-End:
 https://github.com/brunoaugustoteixeira/grades-app.git
 ### Back-End:
-repositório do qual foi clonado: https://github.com/brunoaugustoteixeira/grades-api.git
+https://github.com/brunoaugustoteixeira/grades-api.git
